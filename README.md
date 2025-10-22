@@ -1,4 +1,4 @@
-# NLP
+
 ### 📚 SRH University of Applied Sciences Heidelberg | M.Sc. Applied Data Science & AI  
 Instructor: **Prof. Dr. Swati Chandna**
 
