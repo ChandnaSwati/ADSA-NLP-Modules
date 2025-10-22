@@ -28,6 +28,31 @@ Each module includes:
 - Visualization exercises  
 - Mini-assignments and capstone projects  
 
+---
+
+##  Learning Outcomes 
+1. By the end of the NLP sequence (Modules 8–12), students will:
+2. Understand and implement sequence models (RNNs → Transformers)
+3. Fine-tune pretrained models for downstream tasks
+4. Design retrieval-augmented systems
+5. Develop intelligent multi-agent architectures
+6. Reflect critically on model evolution and ethical use
+
+## Contributions
+You are welcome to:
+1. Add new labs or datasets per module
+2. Improve visualizations (attention maps, hidden states, embeddings)
+3. Share extensions (RAG + Agents integration)
+4. Submit pull requests to enhance course content
+
+## License
+© 2025 Prof. Dr. Swati Chandna
+Licensed under Creative Commons BY-NC 4.0 — for educational use only.
+Attribution required when reusing materials.
+
+
+
+
 
 ---
 ##  How to Use
@@ -45,26 +70,3 @@ cd NLP/Module\\ 8
 pip install torch torchvision torchaudio matplotlib numpy scikit-learn torchtext jupyter
 jupyter notebook
 
-
----
-
-##  How to Use
-1. By the end of the NLP sequence (Modules 8–12), students will:
-2. Understand and implement sequence models (RNNs → Transformers)
-3. Fine-tune pretrained models for downstream tasks
-4. Design retrieval-augmented systems
-5. Develop intelligent multi-agent architectures
-6. Reflect critically on model evolution and ethical use
-
-## Contributions
-You are welcome to:
-1. Add new labs or datasets per module
-2. Improve visualizations (attention maps, hidden states, embeddings)
-3. Share extensions (RAG + Agents integration)
-4. Submit pull requests to enhance course content
-
-
-##License
-© 2025 Prof. Dr. Swati Chandna
-Licensed under Creative Commons BY-NC 4.0 — for educational use only.
-Attribution required when reusing materials.
