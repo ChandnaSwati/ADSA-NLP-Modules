@@ -46,6 +46,7 @@ pip install torch torchvision torchaudio matplotlib numpy scikit-learn torchtext
 jupyter notebook
 
 
+---
 
 ##  How to Use
 1. By the end of the NLP sequence (Modules 8–12), students will:
