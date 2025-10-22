@@ -28,7 +28,26 @@ Each module includes:
 - Visualization exercises  
 - Mini-assignments and capstone projects  
 
+
 ---
+##  How to Use
+
+### ▶Option 1: Run in Google Colab
+1. Click “Open in Colab” above  
+2. Enable GPU under *Runtime → Change runtime type*  
+3. Run cells sequentially and record observations  
+4. Save your version in Drive or export as `.ipynb`
+
+### Option 2: Run Locally
+```bash
+git clone https://github.com/ChandnaSwati/NLP.git
+cd NLP/Module\\ 8
+pip install torch torchvision torchaudio matplotlib numpy scikit-learn torchtext jupyter
+jupyter notebook
+``` 
+
+
+--- 
 
 ##  Learning Outcomes 
 1. By the end of the NLP sequence (Modules 8–12), students will:
@@ -38,6 +57,8 @@ Each module includes:
 5. Develop intelligent multi-agent architectures
 6. Reflect critically on model evolution and ethical use
 
+--- 
+
 ## Contributions
 You are welcome to:
 1. Add new labs or datasets per module
@@ -45,28 +66,9 @@ You are welcome to:
 3. Share extensions (RAG + Agents integration)
 4. Submit pull requests to enhance course content
 
-## License
+--- 
+### License
+
 © 2025 Prof. Dr. Swati Chandna
 Licensed under Creative Commons BY-NC 4.0 — for educational use only.
 Attribution required when reusing materials.
-
-
-
-
-
----
-##  How to Use
-
-### ▶️ Option 1: Run in Google Colab
-1. Click “Open in Colab” above  
-2. Enable GPU under *Runtime → Change runtime type*  
-3. Run cells sequentially and record observations  
-4. Save your version in Drive or export as `.ipynb`
-
-### 💻 Option 2: Run Locally
-```bash
-git clone https://github.com/ChandnaSwati/NLP.git
-cd NLP/Module\\ 8
-pip install torch torchvision torchaudio matplotlib numpy scikit-learn torchtext jupyter
-jupyter notebook
-
