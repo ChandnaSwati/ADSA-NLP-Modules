@@ -1,0 +1,19 @@
+AGENT REPORT — 2025-11-06T11:43:36.449493+01:00
+TOPIC: AI in Education 
+
+--- SUMMARY ---
+
+(no summary generated)
+
+--- SENTIMENT ---
+
+(no sentiment result)
+
+--- FACT-CHECK ---
+
+Claim: 40
+Answer: 
+Confidence: 0.000
+
+--- CONTEXT (truncated) ---
+
