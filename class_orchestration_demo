@@ -1,0 +1,6 @@
+digraph OrchestrationDemo {
+	rankdir=LR
+	search -> calculator
+	calculator -> summarizer
+	summarizer -> END
+}
