@@ -1,6 +1,6 @@
 
 ### 📚 SRH University of Applied Sciences Heidelberg | M.Sc. Applied Data Science & AI  
-Instructor: **Prof. Dr. Swati Chandna and Dr. Dasha Trofimova**
+Instructor: **Prof. Dr. Swati Chandna and Dr. Ghadeer Mobasher*
 
 ---
 
