@@ -1,4 +1,4 @@
-# AI Journalist 3.5 
+# AI Journalist 
 
 ## Objective
 You are building an *AI Journalist* — an intelligent agentic system that reads, reasons, and verifies information from large news datasets.
@@ -14,6 +14,7 @@ Your system must:
 ---
 
 ##  Dataset
+
 Use the provided dataset:
 data/news_corpus.csv # 200,000 news articles
 data/queries.json # query prompts for your agent
@@ -25,6 +26,8 @@ Each record has:
 - `source`: publisher name  
 - `category`: b = business, t = science/tech, e = entertainment, m = health  
 - `date`: publication date  
+
+Tip: For quick iteration, sample 10–20 k rows while prototyping.
 
 ---
 
@@ -134,5 +137,5 @@ Teams of 2–3 students.
 ---
 
 ## Submission
-Upload your completed repository (or GitHub link) to Moodle / SRH GitHub Classroom.  
+Upload your completed repository on SRH GitHub Classroom.  
 Name your repo:

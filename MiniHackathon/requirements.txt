@@ -1,0 +1,15 @@
+pandas
+numpy
+spacy
+nltk
+scikit-learn
+rank-bm25
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langgraph
+transformers
+torch
+matplotlib
+gradio
